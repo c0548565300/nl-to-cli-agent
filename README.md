@@ -26,7 +26,7 @@ Clone & Install:
 
 Bash
 
-git clone https://github.com/your-username/nl-to-cli-agent.git
+git clone https://github.com/c0548565300/nl-to-cli-agent.git
 pip install -r requirements.txt
 Config:
 צור קובץ .env והזן את ה-OPENAI_API_KEY שלך.
